@@ -20,7 +20,9 @@ Imagine que você é um super fã de esportes e quer saber tudo sobre seu atleta
 
 1. **Clone o repositório:** Faça um clone desse repositório no seu computador.
 2. **Abra o arquivo index.html:** Abra o arquivo `index.html` no seu navegador favorito.
-3. **Comece a pesquisar:** Digite o nome do atleta ou esporte e veja a mágica acontecer!
+
+   link para acesso: https://olimpiadasimersao.vercel.app/
+4. **Comece a pesquisar:** Digite o nome do atleta ou esporte e veja a mágica acontecer!
 
 **Quer contribuir?**
 
